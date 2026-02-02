@@ -28,15 +28,15 @@ export const Card = () => {
             <div className="flex items-center justify-center">
               <button
                 onClick={() => setOpen(false)}
-                className="text-md mt-4 flex cursor-pointer items-center gap-1 rounded-md px-2 py-1 shadow-sm"
+                className="text-md mt-4 flex cursor-pointer items-center gap-1 rounded-md px-2 py-1 font-mono tracking-tighter shadow-sm"
               >
                 <img
                   src="logo.png"
                   className="h-4 w-4"
                   width={50}
                   height={50}
-                />{" "}
-                Acternity
+                />
+                Panda UI
                 <RxCrossCircled className="h-4 w-4 text-neutral-400" />
               </button>
             </div>
