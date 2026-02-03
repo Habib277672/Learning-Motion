@@ -1,12 +1,11 @@
-import React from "react";
-import { Card } from "./Components/UI/Card";
+import Layout from "./Components/Layout/Layout";
+import Dashboard from "./Pages/Dashboard";
 import "./App.css";
-
 const App = () => {
   return (
-    <div className="flex h-screen w-full items-center justify-center bg-gray-100">
-      <Card />
-    </div>
+    <Layout>
+      <Dashboard />
+    </Layout>
   );
 };
 
