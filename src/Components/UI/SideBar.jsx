@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from "react";
 import { Home, BarChart2, Users, Settings, ChevronLeft } from "lucide-react";
 import { motion } from "motion/react";

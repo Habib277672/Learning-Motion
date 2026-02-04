@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Generate ultra realistic images in seconds",
+    "description": "With our state-of-the-art AI, you can generate ultra realistic images in no time at all.",
+    "src": "./images/image1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "AI-powered creativity without limits",
+    "description": "Unlock endless creative possibilities using advanced AI models designed for speed and quality.",
+    "src": "./images/image2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "High-quality visuals for modern products",
+    "description": "Create stunning visuals optimized for websites, apps, and digital experiences.",
+    "src": "./images/image3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Fast rendering with smart optimization",
+    "description": "Our system ensures lightning-fast rendering while maintaining exceptional image quality.",
+    "src": "./images/image4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Designed for developers and designers",
+    "description": "Seamlessly integrate AI-generated assets into your workflow with developer-friendly tools.",
+    "src": "./images/image5.jpg"
+  }
+]

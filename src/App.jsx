@@ -1,12 +1,7 @@
-import Layout from "./Components/Layout/Layout";
-import Dashboard from "./Pages/Dashboard";
 import "./App.css";
+import { MotionHooks } from "./Components/Hooks/MotionHooks";
 const App = () => {
-  return (
-    <Layout>
-      <Dashboard />
-    </Layout>
-  );
+  return <MotionHooks />;
 };
 
 export default App;
