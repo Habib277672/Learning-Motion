@@ -1,7 +1,8 @@
 import "./App.css";
-import { MotionHooks } from "./Components/Hooks/MotionHooks";
+import { MotionLayout } from "./Components/UI/MotionLayout";
+// import { Navbar } from "./Components/UI/Navbar";
 const App = () => {
-  return <MotionHooks />;
+  return <MotionLayout />;
 };
 
 export default App;
