@@ -4,7 +4,6 @@ import { useAnimate, motion, delay, stagger } from "motion/react";
 
 export const AnimatedText = () => {
   const [scope, animate] = useAnimate();
-  //   const [current, setCurrent] = useState("Click to Know What is Agentic Ai?");
 
   const AnimationFn = () => {
     animate(
